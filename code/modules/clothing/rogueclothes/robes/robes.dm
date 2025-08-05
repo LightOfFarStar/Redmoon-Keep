@@ -169,7 +169,7 @@
 /obj/item/clothing/suit/roguetown/shirt/robe/physician
 	name = "plague coat"
 	desc = "Medicum morbo adhibere."
-	icon = 'icons/roguetown/clothing/shirts.dmi'
+	icon = 'icons/roguetown/clothing/armor.dmi'
 	mob_overlay_icon = 'modular_redmoon/icons/roguetown/clothing/onmob/armor.dmi'
 	icon_state = "physcoat"
 	slot_flags = ITEM_SLOT_ARMOR
